@@ -6,3 +6,4 @@ print(a)
 print(b)
 print(c)
 print(d)
+/*ver2*/
